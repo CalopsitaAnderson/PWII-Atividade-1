@@ -1,4 +1,4 @@
-var num = 5;
+var num = 20;
 var cubo = function (num) {
     return (num * num);
 };

@@ -1,4 +1,4 @@
-let num : number = 5
+let num : number = 20
 let cubo = function (num:number):number{
     return(num * num)
 }
